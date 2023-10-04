@@ -6,6 +6,48 @@
     alt="hidayatmramon"
   />
 </p>
-##semangat belajarnya
-<h3 align="center">Tutorial basic html</h3>
+<h2 align="center">Apa itu HTML? </h2>
 
+HTML adalah bahasa markup yang digunakan untuk membuat struktur dan konten halaman web. Dengan HTML, Anda dapat menambahkan teks, gambar, tautan, dan elemen lainnya ke halaman web Anda.
+<hr>
+
+<h2 align="center">Membuat Dokumen HTML</h2>
+
+Untuk membuat dokumen HTML, buat file dengan ekstensi `.html`. Berikut contoh dokumen HTML dasar:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contoh Halaman HTML</title>
+</head>
+<body>
+    <h1>Selamat Datang di Tutorial HTML</h1>
+    <p>Ini adalah contoh paragraf.</p>
+</body>
+</html>
+```
+
+<hr>
+
+<h2 align="center">HTML Headings</h2>
+HTML headings adalah judul atau subjudul yang ingin Anda tampilkan di halaman web. Berikut contoh membuat heading:
+
+```html
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+```
+<hr>
+
+<h2 align="center">HTML Paragraphs</h2>
+
+Setelah membuat judul pastinya akan ada paragraf kan? nah berikut contoh membuat paragraf:
+
+```html
+<p> ini adalah paragraph</p>
+```
+<hr>
