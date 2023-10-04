@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=hidayatmramon&label=Profile%20views&color=0e75b6&style=flat"
-    alt="hidayatmramon"
+    src="https://komarev.com/ghpvc/?username=Mhramon&label=Repository%20views&color=0e75b6&style=flat"
+    alt="Mhramon"
   />
 </p>
 <h2 align="center">Apa itu HTML? </h2>
