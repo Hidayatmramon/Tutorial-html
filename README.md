@@ -6,6 +6,6 @@
     alt="hidayatmramon"
   />
 </p>
-
-<h1>Tutorial HTML</h1>
+##semangat belajarnya
+<h3 align="center">Tutorial basic html</h3>
 
